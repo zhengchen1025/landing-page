@@ -103,3 +103,25 @@ a {
   width: 150px;
   text-align: center;
 }
+
+.block3 {
+  display: flex;
+  background-color: #e5e7eb;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.B3up {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  color: #1f2937;
+  width: 800px;
+}
+
+.B3down {
+    width: 400px;
+    align-self: flex-end;
+    font-weight: 800;
+}
